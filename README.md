@@ -40,9 +40,10 @@ El archivo `medallas.csv` contiene información sobre las medallas obtenidas por
 ```
 resultados-deportivos/
 │
-├── medallas.csv                            # Dataset con el medallero olímpico
-├── Análisis de Medallas Olímpicas.ipynb    # Notebook principal con el análisis
-└── README.md
+├──📂 data/
+   └── medallas.csv                          # Dataset con el medallero olímpico
+├──📓 Análisis de Medallas Olímpicas.ipynb  # Notebook principal con el análisis
+└──📄 README.md
 ```
 
 ---
