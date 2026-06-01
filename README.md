@@ -29,9 +29,9 @@ El archivo `medallas.csv` contiene información sobre las medallas obtenidas por
 
 ## 🛠️ Tecnologías
 
-- Python 3
-- Pandas
-- Jupyter Notebook
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 
 ---
 
